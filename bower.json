@@ -6,7 +6,7 @@
     "Jason Brown <loktar69@hotmail.com>"
   ],
   "description": "Make it snow on your page or elements",
-  "main": "index.html",
+  "main": ["dist/snowfall.min.js","dist/snowfall.jquery.min.js"],
   "keywords": [
     "snow",
     "snowfall",
